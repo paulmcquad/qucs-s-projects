@@ -2,10 +2,10 @@
 <Properties>
   <View=0,0,800,800,1,0,0>
   <Grid=10,10,1>
-  <DataSet=1-Resistor-series.dat>
-  <DataDisplay=1-Resistor-series.dpl>
+  <DataSet=1-Resistor-series-1.dat>
+  <DataDisplay=1-Resistor-series-1.dpl>
   <OpenDisplay=0>
-  <Script=1-Resistor-series.m>
+  <Script=1-Resistor-series-1.m>
   <RunScript=0>
   <showFrame=0>
   <FrameText0=Title>
